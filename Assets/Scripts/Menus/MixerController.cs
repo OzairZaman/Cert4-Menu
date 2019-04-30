@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 
-public class VolumeController : MonoBehaviour {
+public class MixerController : MonoBehaviour {
 
     //added to the Slider object
     
